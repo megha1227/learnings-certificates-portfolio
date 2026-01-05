@@ -4,7 +4,7 @@ A comprehensive portfolio of my learning journey, including certificates, projec
 
 ## Structure
 
-- **certificates/**: All my online course certificates, organized by platform.
+- **certificates/**: All my online course certificates, organized by course.
 - **projects/**: Personal and course-related projects.
 - **notes/**: Study notes and summaries from various topics.
 
