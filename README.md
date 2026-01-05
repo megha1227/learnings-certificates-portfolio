@@ -1,16 +1,12 @@
-# Learnings Certificates Portfolio
+# Learnings Portfolio
 
-This repository contains certificates from various online learning platforms, showcasing my achievements.
+A comprehensive portfolio of my learning journey, including certificates, projects, and study notes.
 
-## Platforms
+## Structure
 
-- Udemy
-
-## Organization
-
-Certificates are organized by course name.
-
-- [Introduction to Machine Learning Models (AI) Testing](https://www.udemy.com/certificate/UC-a1c2c9b3-5401-4f2a-9132-19c255e3e4cc/)
+- **certificates/**: All my online course certificates, organized by platform.
+- **projects/**: Personal and course-related projects.
+- **notes/**: Study notes and summaries from various topics.
 
 ## Contact
 
